@@ -2,7 +2,7 @@
 
 Deploy the **official open-source DeepSeek chat client** ([deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo), MIT) as a single static Railway service. The browser talks to the DeepSeek API directly — there is no application backend, no database, and **your API key never leaves your browser**.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/github_url=https://github.com/lNamelessl/deepseek-chat)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/deepseek-chat-official-ui-with-web-searc)
 
 ## What it is
 

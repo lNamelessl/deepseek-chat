@@ -1,6 +1,6 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new/github_url=https://github.com/lNamelessl/deepseek-chat)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/deepseek-chat-official-ui-with-web-searc)
 
-# DeepSeek Chat — Official UI with Web Search, Thinking & Voice
+## DeepSeek Chat — Official UI with Web Search, Thinking & Voice
 
 Deploy the **official open-source DeepSeek chat client** ([deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo), MIT) as one static Railway service. It renders DeepSeek's full App API feature set — server-side web search with citations, the deep-thinking panel, file upload, and voice input/read-aloud — in a React UI with Chinese and English localization and light/dark themes.
 
